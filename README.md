@@ -48,23 +48,23 @@
 ### 4. 아이디어 리스트 🧩 
 - 수정순, 생성순, 이름순으로 아이디어를 정렬하고 제목을 검색합니다.
 - thumbnail으로 퍼즐 모양을 표시합니다.
-<img src="https://user-images.githubusercontent.com/51811995/160635274-7b6a5a2a-bc44-45f7-b8c0-7b7bb9d63e70.gif" width=250/>
+<img src="https://user-images.githubusercontent.com/51811995/160635274-7b6a5a2a-bc44-45f7-b8c0-7b7bb9d63e70.gif" width=250 />
 ## 설계
 ### navigation flow
-<img src="https://user-images.githubusercontent.com/51811995/158197545-51668b0f-d8d5-4199-a3ee-47ce015a7a57.PNG">
+<img src="https://user-images.githubusercontent.com/51811995/158197545-51668b0f-d8d5-4199-a3ee-47ce015a7a57.PNG" />
 ## 브랜치 전략
 - git-flow
 <p>
-<img src="https://user-images.githubusercontent.com/51811995/160810158-f60dfe05-fbaf-4a84-a9dc-46e6eeec2492.PNG" width=800>
+ <img src="https://user-images.githubusercontent.com/51811995/160810158-f60dfe05-fbaf-4a84-a9dc-46e6eeec2492.PNG" width=800 />
 </p>
 ## 관리
 - Figma, Gather town, Discord 를 이용하여 기획, 디자이너 분들과 협업 하였습니다.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/51811995/158749817-f53ac104-c68d-4419-9a24-196ee4c2a3e8.png" width=70>
-  <img src="https://user-images.githubusercontent.com/51811995/158753629-055b0586-ffb4-4321-9f2c-f79fa181a6c6.png" width=120>
-  <img src="https://user-images.githubusercontent.com/51811995/158750336-ebe4f865-2525-4cc2-9054-bcf36da2bd8f.png" width=90>
+ <img src="https://user-images.githubusercontent.com/51811995/158753629-055b0586-ffb4-4321-9f2c-f79fa181a6c6.png" width=120>
+ <img src="https://user-images.githubusercontent.com/51811995/158750336-ebe4f865-2525-4cc2-9054-bcf36da2bd8f.png" width=90 />
 </p>
 <p align="center">
- <img src="https://user-images.githubusercontent.com/51811995/159105521-27df46ad-1926-47c0-99bf-d91710b97805.PNG" width=400>
- <img src="https://user-images.githubusercontent.com/51811995/160619464-d59003eb-23da-494b-ae31-98e6993c1def.png" width=400>
+ <img src="https://user-images.githubusercontent.com/51811995/159105521-27df46ad-1926-47c0-99bf-d91710b97805.PNG" width=400 />
+ <img src="https://user-images.githubusercontent.com/51811995/160619464-d59003eb-23da-494b-ae31-98e6993c1def.png" width=400 />
 </p>
