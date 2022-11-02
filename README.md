@@ -32,31 +32,38 @@
 <img src="https://img.shields.io/badge/Google Play-414141?style=for-the-badge&logo=Google Play&logoColor=white">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white">
 <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white">
+
 ## 프로젝트 설명
 ### 1. 로그인 🧩
 - 회원가입과 로그인을 통해 앱을 이용합니다.
 - 비밀번호 찾기, 계정 삭제를 통해 개인 정보를 수정/삭제 합니다.
 <img src="https://user-images.githubusercontent.com/51811995/160630800-e7ec41cb-2bc1-4016-b400-55a0c694eefe.gif" width=250/>
+
 ### 2. 랜덤 매칭 🧩
 - 키워드에 맞는 이미지를 불러와 랜덤 매칭합니다.
 - 양옆으로 스와이프 해서 퍼즐을 고르고 퍼즐 조합을 저장합니다.
 <img src="https://user-images.githubusercontent.com/51811995/160636939-365f8bc2-96eb-4372-b9f3-3a6d2260da70.gif" width=250/>
+
 ### 3. 퍼즐 확장 🧩 
 - 랜덤 매칭으로 생성한 아이디어를 퍼즐 맞추듯이 확장시킵니다.
 - 이미지, 텍스트 퍼즐을 직접 생성하고 제목, 메모를 입력합니다.
 <img src="https://user-images.githubusercontent.com/51811995/160632454-6eb61124-25cd-4adb-aff7-509d37e4f796.gif" width=250/>
+
 ### 4. 아이디어 리스트 🧩 
 - 수정순, 생성순, 이름순으로 아이디어를 정렬하고 제목을 검색합니다.
 - thumbnail으로 퍼즐 모양을 표시합니다.
 <img src="https://user-images.githubusercontent.com/51811995/160635274-7b6a5a2a-bc44-45f7-b8c0-7b7bb9d63e70.gif" width=250 />
+
 ## 설계
 ### navigation flow
 <img src="https://user-images.githubusercontent.com/51811995/158197545-51668b0f-d8d5-4199-a3ee-47ce015a7a57.PNG" />
+
 ## 브랜치 전략
 - git-flow
 <p>
  <img src="https://user-images.githubusercontent.com/51811995/160810158-f60dfe05-fbaf-4a84-a9dc-46e6eeec2492.PNG" width=800 />
 </p>
+
 ## 관리
 - Figma, Gather town, Discord 를 이용하여 기획, 디자이너 분들과 협업 하였습니다.
 <p align="center">
