@@ -19,13 +19,18 @@
    1. [navigation flow](#navigation-flow)
 5. [브랜치 전략](#브랜치-전략)
 6. [관리](#관리)
+
+
 ## 소개
 다양한 **컨텐츠를 랜덤으로 매칭**해 아이디어를 만들고 자신의 아이디어를 **지속적으로 발전**시키는 모바일 아이데이션 애플리케이션입니다.
 **퍼즐 컨셉**으로 유저들이 아이디어 퍼즐을 맞춰가면서 아이디어를 **생성**하고 **발전**시킬 수 있도록 도와줍니다.
+
 #### 💡 아이데이션이란?
 단순한 아이디어 자체가 아니라 새로운 아이디어를 만드는 **생성(Generating)**, **발전(Developing)**, 커뮤니케이션(Communicating) 과정을 말함
 <img src="https://user-images.githubusercontent.com/51811995/158553638-ee0b2c15-6771-4016-be56-91d9e4aa063f.png" width=500>
+
   🔗 [위키피디아 설명](https://en.wikipedia.org/wiki/Ideation_(creative_process))
+  
 ## 기술 스택
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
